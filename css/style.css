@@ -51,8 +51,8 @@ li a{
 
 .page1{
     grid: flex;
-    height: auto;
-    width: auto;
+    height: 663px;
+    width: 2560px;
     background-color: #F0FFF0;
 }
 .page1_info{
@@ -190,7 +190,7 @@ button{
     font-size: 36px;
     font-family: poppins;
     font-weight: 700;   
-    margin:93px 129px 100px 543spx;
+    margin:93px 129px 100px 0px;
     padding-bottom: 70px;
 }
 .page3_main{
@@ -332,6 +332,7 @@ button{
     height: 100px;
     width: 100px;
 }
+
 
     /*Page4 end*/
 

@@ -1,0 +1,244 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+.page1 {
+    grid: flex;
+    height: 663px;
+    width: 1387px;
+}
+.btnicon{
+    width: 90px;
+}
+.books{
+    padding: 10px 10px 10px 0px;
+}
+.iconpart {
+    padding: 43px 0px 0px 20px;
+}
+.icon_content{
+    margin-left: -163px;
+}
+.page2 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    margin: 66px 328px 73px 469px;
+}
+.page3{
+    align-content: center;
+    margin: 0px 459px;
+}
+.page4_p1{
+    margin:103px 115px 26px 531px;
+}
+.page4_img{
+    padding: 127px 42px 100px 0px;
+}
+.page4_p2 {
+    width: 361px;
+    margin-left: 600px;
+}
+.page4_img img {
+    margin: -50px 10px 10px 431px;
+}
+.page5{
+    width: 1398px;
+}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+   .iconpart {
+    padding: 57px 0px 0px 135px;
+   }
+   .books{
+    padding-left: 500px;
+   }
+   .page1_img img{
+    margin-left: 450px;
+   }
+   .page1_content{
+    margin-left: 473px;
+   }
+   .page2 {
+    gap: 80px;
+    margin-left: 558px;
+   }
+   .page2box{
+    height: 318px;
+    width: 292px;
+    margin-left: 3px;
+   }
+   .page3_content{
+       margin: 93px 644px 100px 806px;
+    padding: 10px 260px 10px 10px;
+    width: 1189px;
+    height: 50px;
+}
+   .page3_main{
+    width: 450px;
+    display: grid;
+   }
+   .page3_3{
+    gap: 45px;
+     display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 710px;
+   }
+   .page4_p1{
+    margin-left: 1066px;
+   }
+   .page4_p2{
+    width: 700px;
+    margin-left: 787px;
+    
+   }
+   .page4_img img{
+    margin-left: 624px;
+    margin-top: 5px;
+   }
+   .page5{
+    width: 2568px;
+   }
+   .lastp{
+    padding-left: 712px;
+   }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+   .page1_img img{
+    margin-left: 762px;
+   }
+   .books{
+    margin-left: 652px;
+   }
+   .page2box{
+    margin-left: 262px;
+    height: 313px;
+    width: 300px;
+   }
+   .page3_content{
+    margin-left: 640px;
+    width: 1260px;
+   }
+   .page3_main{
+    width: 440px;
+    display: grid;
+   }
+.page3_3{
+     display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 710px;
+}
+.page4_p1{
+    margin-left: 1200px;
+}
+.page4_p2{
+    width: 700px;
+    margin-left: 965px;
+    
+   }
+    .page4_img img{
+    margin-left: 624px;
+    margin-top: 5px;
+   }
+   .page5{
+    width: 2561px;
+   }
+   .lastp{
+    padding-left: 1205px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/* Extra large (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up ++) */
+@media (min-width: 1400px) {
+   
+    .books{
+       padding: 10px 10px 10px 603px;
+    }
+    .page2{
+        width: 2944px;
+    }
+    .page1_img img {
+    width: 813px;
+    height: 493px;
+    margin: 128px 74px 184px 528px;
+}
+.page1 {
+    height: 834px;
+    width: 2935px;
+}
+.page1_content {
+    margin-left: 424px;
+}
+.page2box {
+    height: 428px;
+    width: 610px;
+}
+.page3_content{
+    margin: 93px 644px 100px 1030px;
+    padding: 10px 260px 10px 10px;
+    width: 1189px;
+    height: 50px;
+}
+.page3_3 {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 910px
+}
+.page3_main{
+    width: 540px;
+}
+.page4_p1{
+    margin: 103px 658px 26px 1343px;
+}
+.page4_p2{
+    width: 902px;
+    margin-left: 100px;
+}
+.page4_content{
+    margin-left: 795px;
+}
+.page5{
+    width: 2947px;
+}
+.lastp{
+    padding-left: 1364px;
+}
+
+}
