@@ -21,13 +21,11 @@ It is designed as a landing page with a clean UI and responsive layout.
 
 
 ## 🚀 How to Run
-1.
   1. Download the project as ZIP from GitHub.  
-  2. Extract the folder.  
-  3. Open `index.html` in any browser.
+     Extract the folder.  
+     Open `index.html` in any browser.
      
-2. Clone or download this repository:
-   ```bash
+  2. ```bash
    git clone https://github.com/sumaiya004-dot/eSchool.git
 
    
